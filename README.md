@@ -13,10 +13,16 @@ https://drive.google.com/drive/folders/1KvNLDf0StsJSXH4FQ6m0YqR01Nb652ua?usp=sha
 Yolo detection Video:
 https://drive.google.com/file/d/16Mq9oQgtTpQ8ubb4L5fvntPRYxhgOXVA/view?usp=sharing
 
-Vechile counting Inference: 
+Counting video:
+https://drive.google.com/file/d/1CQ5On1Z7xgScatX-YsyuOsdyW7-5q8aA/view?usp=sharing
 
+Inference :
+Vechile counting Inference GPU: 
+https://github.com/G-VJ/Vechial-Count/blob/main/VC%20Inference%20CPU.ipynb
+
+Vechile counting Inference CPU: 
+https://github.com/G-VJ/Vechial-Count/blob/main/vechile%20count%20inference%20using%20GPU
 
 Reference:
 https://medium.com/@g-vj/object-detection-using-darknet-and-yolo-bf2af97343d
-Inference :
 https://github.com/nandinib1999/object-detection-yolo-opencv 
